@@ -7,8 +7,6 @@
  2) now you can run the project and use the Calculator Easily.
 
 
-# ii) Project form
-
 ## Screenshots
 
 ![2023-02-24 06_01_39-myproject (Running) - Microsoft Visual Studio](https://user-images.githubusercontent.com/100792508/221091627-65b4d38d-54e6-4d58-bff6-38c5f9b32735.png)
